@@ -1,12 +1,4 @@
-a=8
-b=2
+for y in keyword:
+    keyword2.append(y)
 
-if a>=b:
-    big=a
-    small=b
-else:
-    big=b
-    small=a
 
-for i in range(small,big):
-    print(i)
